@@ -13,11 +13,11 @@ This system allows restaurant staff to manage menu items through chat commands i
 🔁 Works as backup system for production apps
 
 🧰 Tech Stack
-> Node.js
-> Express.js
-> Socket.IO
-> MySQL
-> HTML, CSS, JavaScript
+- Node.js
+- Express.js
+- Socket.IO
+- MySQL
+- HTML, CSS, JavaScript
 
 📂 Project Setup
 1. Clone the repository
