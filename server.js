@@ -15,7 +15,7 @@ app.use(express.static("public"));
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "k7#Mv2!pQ9$z",
+  password: "INSERT YOUR MYSQL PASSWORD HERE",
   database: "restaurant_db",
 });
 
