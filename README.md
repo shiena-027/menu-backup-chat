@@ -1,4 +1,4 @@
-***📌 Restaurant Backup Chat System****
+***📌 Restaurant Backup Chat System***
 
 A real-time backup admin chat system built with Node.js, Express, Socket.IO, and MySQL.
 This system allows restaurant staff to manage menu items through chat commands in case the main system (e.g., Messenger/Meta chatbot) goes down.
@@ -134,3 +134,4 @@ Replace MySQL with:
 - Make sure MySQL is running before starting server
 - Do not push node_modules to GitHub
 - Add .env later for security improvements (recommended)
+- Add View,Update,Delete function. This only do Add dishes
