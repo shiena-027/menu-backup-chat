@@ -1,0 +1,29 @@
+{
+  "name": "menu-backup-chat",
+  "version": "1.0.0",
+  "description": "for backup dishes adding",
+  "keywords": [
+    "menu"
+  ],
+  "homepage": "https://github.com/shiena-027/menu-backup-chat#readme",
+  "bugs": {
+    "url": "https://github.com/shiena-027/menu-backup-chat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiena-027/menu-backup-chat.git"
+  },
+  "license": "ISC",
+  "author": "Shiena Mae Miranda (shiena-027)",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.5",
+    "socket.io": "^4.8.3"
+  }
+}

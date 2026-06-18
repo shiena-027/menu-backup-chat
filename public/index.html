@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Backup Chat Admin</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="header">
+      🍔 Restaurant Backup Chat System
+    </div>
+
+    <div id="chat"></div>
+
+    <div class="inputBox">
+      <input id="msg" placeholder="add: Burger, 120, Fast Food, Store 1" />
+      <button onclick="send()">Send</button>
+    </div>
+
+    <div id="menu"></div>
+
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
